@@ -1,0 +1,16 @@
+N:\Framework\BAITAP\bai5\bin\Debug\net5.0\bai5.exe
+N:\Framework\BAITAP\bai5\bin\Debug\net5.0\bai5.deps.json
+N:\Framework\BAITAP\bai5\bin\Debug\net5.0\bai5.runtimeconfig.json
+N:\Framework\BAITAP\bai5\bin\Debug\net5.0\bai5.runtimeconfig.dev.json
+N:\Framework\BAITAP\bai5\bin\Debug\net5.0\bai5.dll
+N:\Framework\BAITAP\bai5\bin\Debug\net5.0\ref\bai5.dll
+N:\Framework\BAITAP\bai5\bin\Debug\net5.0\bai5.pdb
+N:\Framework\BAITAP\bai5\obj\Debug\net5.0\bai5.csprojAssemblyReference.cache
+N:\Framework\BAITAP\bai5\obj\Debug\net5.0\bai5.GeneratedMSBuildEditorConfig.editorconfig
+N:\Framework\BAITAP\bai5\obj\Debug\net5.0\bai5.AssemblyInfoInputs.cache
+N:\Framework\BAITAP\bai5\obj\Debug\net5.0\bai5.AssemblyInfo.cs
+N:\Framework\BAITAP\bai5\obj\Debug\net5.0\bai5.csproj.CoreCompileInputs.cache
+N:\Framework\BAITAP\bai5\obj\Debug\net5.0\bai5.dll
+N:\Framework\BAITAP\bai5\obj\Debug\net5.0\ref\bai5.dll
+N:\Framework\BAITAP\bai5\obj\Debug\net5.0\bai5.pdb
+N:\Framework\BAITAP\bai5\obj\Debug\net5.0\bai5.genruntimeconfig.cache
